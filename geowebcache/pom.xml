@@ -14,7 +14,7 @@
     <jts.version>1.13</jts.version>
     <jaiext.version>1.0.13</jaiext.version>
     <spring.version>4.2.5.RELEASE</spring.version>
-    <restlet.version>1.0.8</restlet.version>
+    <restlet.version>2.3.9</restlet.version>
     <xstream.version>1.4.7</xstream.version>
     <spring.security.version>4.0.4.RELEASE</spring.security.version>
     <commons-logging.version>1.1.1</commons-logging.version>
