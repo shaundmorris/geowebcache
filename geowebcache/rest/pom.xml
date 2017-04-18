@@ -33,7 +33,6 @@
     <dependency>
       <groupId>org.restlet</groupId>
       <artifactId>org.restlet</artifactId>
-      <classifier>noobjrep</classifier>
     </dependency>
     <dependency>
       <groupId>org.restlet</groupId>
