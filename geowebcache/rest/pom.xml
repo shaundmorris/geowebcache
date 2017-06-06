@@ -31,11 +31,11 @@
 
     <!-- restlet.org dependencies -->
     <dependency>
-      <groupId>org.restlet</groupId>
+      <groupId>org.restlet.jse</groupId>
       <artifactId>org.restlet</artifactId>
     </dependency>
     <dependency>
-      <groupId>org.restlet</groupId>
+      <groupId>org.restlet.jse</groupId>
       <artifactId>org.restlet</artifactId>
       <scope>provided</scope>
     </dependency>
@@ -57,17 +57,17 @@
     </dependency>
 
     <dependency>
-      <groupId>org.restlet</groupId>
+      <groupId>org.restlet.jse</groupId>
       <artifactId>org.restlet.ext.freemarker</artifactId>
     </dependency>
 
     <dependency>
-      <groupId>org.restlet</groupId>
+      <groupId>org.restlet.jse</groupId>
       <artifactId>org.restlet.ext.spring</artifactId>
     </dependency>
 
     <dependency>
-      <groupId>org.restlet</groupId>
+      <groupId>org.restlet.jse</groupId>
       <artifactId>org.restlet.ext.json</artifactId>
     </dependency>
 
