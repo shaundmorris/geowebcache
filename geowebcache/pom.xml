@@ -326,12 +326,12 @@
 
     <!-- restlet.org dependencies -->
     <dependency>
-      <groupId>org.restlet</groupId>
+      <groupId>org.restlet.jse</groupId>
       <artifactId>org.restlet</artifactId>
       <version>${restlet.version}</version>
     </dependency>
     <dependency>
-      <groupId>org.restlet</groupId>
+      <groupId>org.restlet.jse</groupId>
       <artifactId>org.restlet</artifactId>
       <version>${restlet.version}</version>
       <scope>provided</scope>
@@ -350,19 +350,19 @@
     </dependency>
     
     <dependency>
-      <groupId>org.restlet</groupId>
+      <groupId>org.restlet.jse</groupId>
       <artifactId>org.restlet.ext.freemarker</artifactId>
       <version>${restlet.version}</version>
     </dependency>
     
     <dependency>
-      <groupId>org.restlet</groupId>
+      <groupId>org.restlet.jse</groupId>
       <artifactId>org.restlet.ext.spring</artifactId>
       <version>${restlet.version}</version>
     </dependency>
     
     <dependency>
-      <groupId>org.restlet</groupId>
+      <groupId>org.restlet.jse</groupId>
       <artifactId>org.restlet.ext.json</artifactId>
       <version>${restlet.version}</version>
     </dependency>
